@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestMySQL</string>
+    <string-array name="numbers">
+        <item>Выберите месяц</item>
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        </string-array>
+</resources>
